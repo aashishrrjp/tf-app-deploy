@@ -1,0 +1,5 @@
+gcp_project_id = "mando-service-project-1"
+gcp_region     = "us-central1"
+cluster_name   = "my-python-app-cluster"
+ip_range_pods  = "gke-pods-range"
+ip_range_services = "gke-services-range"
