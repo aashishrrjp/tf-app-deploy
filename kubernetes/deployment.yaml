@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: gcr.io/mando-service-project-1/python-app:latest 
+        image: gcr.io/mando-service-project-1/python-app 
         ports:
         - containerPort: 5000
